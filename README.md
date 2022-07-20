@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This was my first time using xCode and Swift in order to create a mobile app. I have to say, that firstly I have to get familiar with the programming language Swift, and after that I finally could build this app. Also I learned new thing about Github, and how to add GIF's in the README.md file 
+This was my first time using xCode and Swift in order to create a mobile app. I have to say, that firstly I have to get familiar with the programming language Swift, and after that I finally could build this app. Also I learned new things about Github, and how to add GIF's in the README.md file 
 
 ## License
 
